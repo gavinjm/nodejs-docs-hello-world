@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/da2b38e4-7da8-42f3-b892-1a58eebd4c61/resourceGroups/HolmesPlace/providers/Microsoft.Web/sites/Node01Start",
+    "appService.deploySubpath": "."
+}
